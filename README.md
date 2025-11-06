@@ -74,4 +74,4 @@ When food is eaten:
 | Name                           | GitHub Profile                                       |
 | ------------------------------ | ---------------------------------------------------- |
 | **Alby Mathew Biju**               | [@albymathewbiju](https://github.com/Cyberspidey617)       |
-| **Anusree Babu**           | [@anusreebabu]() |
+| **Anusree Babu**           | [@anusreebabu](https://github.com/AnusreeBabu02) |
