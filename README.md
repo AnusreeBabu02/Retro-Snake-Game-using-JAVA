@@ -69,3 +69,9 @@ When food is eaten:
 
 ---
 
+## 👥 Collaborators
+
+| Name                           | GitHub Profile                                       |
+| ------------------------------ | ---------------------------------------------------- |
+| **Alby Mathew Biju**               | [@albymathewbiju](https://github.com/anusreebabu)       |
+| **Anusree Babu**           | [@anusreebabu](https://github.com/albymathewbiju) |
