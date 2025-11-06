@@ -69,15 +69,3 @@ When food is eaten:
 
 ---
 
-## 🛠️ Installation & Run
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/snake-game-java.git
-cd snake-game-java
-
-# Compile
-javac *.java
-
-# Run
-java AASnakeGame
